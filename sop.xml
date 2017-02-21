@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sop>
+    <intro> 
+        <p>Welcome returning and visiting students. Whether you are looking to lighten your schedule in the upcoming semesters, get ahead, complete a prerequisite, or catch-up in order to finish your degree on time, taking winter and summer courses is a great time to do that. In the contents listed below, you should be able to find all the information you need for browsing, registering, and paying for winter and summer courses at Virginia Tech. For additional information not listed, please check our online websites and do not hesitate to call the numbers listed in the troubleshooting section. </p>
+    </intro>
+   <sessions>
+    <session> 
+        <id>
+            <url>summer.htiml</url>
+            <sessiontitle>Summer Sessions at Virginia Tech</sessiontitle>
+            <welcome>
+                Welcome to the summer page.  
+            </welcome>
+            <tasks>
+                <tasktitle>How to Find Course Information</tasktitle>
+                <staging></staging>
+                <ingredients></ingredients>
+                    <item>A computer</item>
+                    <item>A cellphone</item>
+                <steps>
+                     <ol>Log into your Hokie Spa using your PID and password.</ol>
+                     <ol></ol>
+                </steps>
+                    <step>
+                        <action>Do this!</action>
+                        <note>additional information</note>
+                    </step>
+                    
+                <summary></summary>
+            </tasks>
+        </id>
+    </session>
+    <session> 
+        <id>
+            <url>winter.html</url>
+            <sessiontitle>Winter Sessions at Virginia Tech</sessiontitle>
+            <welcome>
+                Welcome to the winter session page. 
+            </welcome>
+            <tasks></tasks>
+        </id>
+    </session> 
+ </sessions>
+</sop>
